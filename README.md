@@ -34,7 +34,7 @@
 
 ### According to WHO
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbRKr2P%2FbtsmyvFurj1%2FeIZAsnyePrkAeJjG0S8EuK%2Fimg.png"/> 
-<a href="https://www.who.int/news-room/fact-sheets/detail/falls">Go WHO-Fall section</a><br>
+Source URL : <a href="https://www.who.int/news-room/fact-sheets/detail/falls">Go WHO-Fall section</a><br>
   - Falls are the second leading cause of unintentional injury deaths worldwide. <br/>
   - Each year an estimated 684 000 individuals die from falls globally of which over 80% are in low- and middle-income countries. <br/>
   - Adults older than 60 years of age suffer the greatest number of fatal falls. <br/>
@@ -62,19 +62,29 @@ It is used to draw a line, draw a dot, and decorate the user's UI.
 #### How do you measure falls?
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGVEMn%2FbtsmzjYPyED%2Fvctb0qUjmXlTNfPDwHueKk%2Fimg.png"/>
 
-#### How to find body's center of gravity
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3LNPP%2FbtsmPamqGfn%2FMSM3i9KzkLd0ftyC1IuA31%2Fimg.png"/>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Flt35q%2FbtsmOTFh0RU%2F0kxhZwbxD51hbqPcou1h30%2Fimg.png"/>
+#### How to find body's center of gravity?
+<br>
+Firstly, you should know how to find lectangle's center of gravity.
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqIaBn%2FbtsmOLVz49r%2FNewBdeQfuGdePGKFJsfAk1%2Fimg.png"/>
+EXAMPLE
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FRYCQa%2FbtsmOLBiOck%2FjACYhrvkDbR2Gq1ktjFEY0%2Fimg.png"/>
 
 
-In this way you can find the center of gravity of the following body parts. <br>
+In this way you can find the center of gravity of the following body parts.
+Because the human body can be divided into segments.
+<img src="https://blog.kakaocdn.net/dn/luAyK/btsmROje1bL/mt4jx6yE1kKLMEKlpALkoK/img.png"/>
+
 <br>
 <br>
-You can see one example.
+
+#### You can see one example.
 <br>
-#### [Find C.G of left amr] <br>
+[Find C.G of left amr] <br>
 <img  src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHEX4f%2FbtsmGikM872%2FgbPKYTKyAUHDGQsVqHj86k%2Fimg.png"/>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMC2Ou%2FbtsmF6EQ7LM%2F0HvOUgXxOw2kk4yKfF1JUK%2Fimg.png"/>
+
+Finally, We can find body's center of gravity.
+<img src="https://blog.kakaocdn.net/dn/PFNCm/btsmUwbhUqA/9yyXpkgO8T1d6MLSuXLt40/img.png"/>
 
 
 #### Heinrich law (Reason of mesuring count)
