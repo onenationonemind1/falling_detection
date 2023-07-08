@@ -63,12 +63,30 @@ It is used to draw a line, draw a dot, and decorate the user's UI.
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGVEMn%2FbtsmzjYPyED%2Fvctb0qUjmXlTNfPDwHueKk%2Fimg.png"/>
 
 #### How to find body's center of gravity
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3LNPP%2FbtsmPamqGfn%2FMSM3i9KzkLd0ftyC1IuA31%2Fimg.png"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Flt35q%2FbtsmOTFh0RU%2F0kxhZwbxD51hbqPcou1h30%2Fimg.png"/>
+
+
+In this way you can find the center of gravity of the following body parts. <br>
+<br>
+<br>
+You can see one example.
+<br>
+#### [Find C.G of left amr] <br>
+<img  src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHEX4f%2FbtsmGikM872%2FgbPKYTKyAUHDGQsVqHj86k%2Fimg.png"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMC2Ou%2FbtsmF6EQ7LM%2F0HvOUgXxOw2kk4yKfF1JUK%2Fimg.png"/>
 
 
 #### Heinrich law (Reason of mesuring count)
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Heinrich%27s_triangle_English.png" width="300"/>
 
 According to Heinrich's Law, when a person falls more than 300 times in the same place, it leads to one serious accident. Therefore, by counting the number of falls, we need to take action before the count exceeds 300.
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFJlqp%2FbtsmN5e6fnR%2FgnrpG6FQ6mqnBBYA8ROPE0%2Fimg.png"/>
+
+Imagine people fall down 
+
+
 
 ---
 
