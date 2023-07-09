@@ -115,7 +115,7 @@ We know that near and far objects have different sizes. <br/>
 <br/>
 
 So, when measuring the fall, when measuring the length, you can solve it as follows. <br/>
-Person's height * 0.75 > |Center of gravity X- Center of the two feet|
+Person's body of C.G * 0.75 > |body of C.G's X axis - Center of the two feet X axis|
 
 <img src="https://blog.kakaocdn.net/dn/bmaOJk/btsmROcS6HQ/1Hi3HmOGZc6A30l5Nkjfek/img.png"/>
 
