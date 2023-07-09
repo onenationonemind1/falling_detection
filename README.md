@@ -71,19 +71,23 @@ EXAMPLE
 
 
 In this way you can find the center of gravity of the following body parts.
-Because the human body can be divided into segments.
+Because the human body can be divided into segments. <br/>
+Source URL: <a href="https://www.digitalengineering247.com/article/human-body-thermoregulation-model-integrated-with-sc-tetra-cfd-software/cfd">Visit digitalengineering247.com!</a>
+
 <img src="https://blog.kakaocdn.net/dn/luAyK/btsmROje1bL/mt4jx6yE1kKLMEKlpALkoK/img.png"/>
 
 <br>
 <br>
 
-#### You can see one example.
+#### Finally, we can see an example based on the previous theory..
 <br>
 [Find C.G of left amr] <br>
 <img  src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHEX4f%2FbtsmGikM872%2FgbPKYTKyAUHDGQsVqHj86k%2Fimg.png"/>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMC2Ou%2FbtsmF6EQ7LM%2F0HvOUgXxOw2kk4yKfF1JUK%2Fimg.png"/>
 
-Finally, We can find body's center of gravity.
+<br/>
+Finally, We can find body's center of gravity. <br/>
+
 <img src="https://blog.kakaocdn.net/dn/PFNCm/btsmUwbhUqA/9yyXpkgO8T1d6MLSuXLt40/img.png"/>
 
 
@@ -94,10 +98,31 @@ According to Heinrich's Law, when a person falls more than 300 times in the same
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFJlqp%2FbtsmN5e6fnR%2FgnrpG6FQ6mqnBBYA8ROPE0%2Fimg.png"/>
 
-Imagine people fall down 
+The above workers have experienced a fall at the site. <br/>
+But most people don't take it seriously. <br/>
+There are safety managers, but they have to manage too many areas. <br/>
+So, task managers often install safety devices after a major accident. <br/>
+
+<img src="https://blog.kakaocdn.net/dn/A7cHz/btsmO5GFHaR/kEqSKN1iienzTwiXZnD2pk/img.png"/>
+- 20-30 km of management area per capita -> outside the scope of ability <br/>
+- When working indoors, it is difficult to check CCTV in real time due to paperwork. <br/>
+
+### Perspective
+#### A method for measuring the fall of distant and near objects.  <br/>
+
+We know that near and far objects have different sizes. <br/>
+<img src="https://blog.kakaocdn.net/dn/dzVMaF/btsmRqiLjU6/Drfck2O3n4n8GUstVNWj1k/img.png"/>
+<br/>
+
+So, when measuring the fall, when measuring the length, you can solve it as follows. <br/>
+Person's height * 0.75 > |Center of gravity X- Center of the two feet|
+
+<img src="https://blog.kakaocdn.net/dn/bmaOJk/btsmROcS6HQ/1Hi3HmOGZc6A30l5Nkjfek/img.png"/>
 
 
 
 ---
+
+
 
 
