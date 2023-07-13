@@ -11,7 +11,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- Heinrich's law <br/> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ‧ If you almost fall more than 300 times, it becomes a major disaster in the future. <br/> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- perspective <br/> <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ‧ A method for measuring the fall of distant and near objects. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ‧ A method for measuring the fall of distant and near objects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ‧ How to Calculate Falls by Region.
 
 ---
 # 1. Introduce
@@ -119,6 +120,27 @@ Person's body of C.G * 0.75 > |body of C.G's X axis - Center of the two feet X a
 
 <img src="https://blog.kakaocdn.net/dn/bmaOJk/btsmROcS6HQ/1Hi3HmOGZc6A30l5Nkjfek/img.png"/>
 
+#### How to Calculate Falls by Region. <br/>
+<br>
+Examply, If you want to recognize when the center point of the feet is in the example square box, you can find out by checking if it is within the following range.
+<br>
+
+![image](https://github.com/onenationonemind1/falling_detection/assets/93633207/e2aa63d7-45bd-4228-a18f-d832f57a53ef)
+
+<br>
+<br>
+So we can checke if it is within the following range.
+Real region(red)
+
+![image](https://github.com/onenationonemind1/falling_detection/assets/93633207/69831da3-cbe1-477b-be97-c13f32d16b7e)
+<br>
+express in code (632 line)
+```
+if Point_of_action_X <  320 and Point_of_action_X > 100 and  Point_of_action_Y > 390 and Point_of_action_Y > y and  standing and stage == 'falling':               
+    cv2.putText(image, 'fall' , ( 320,240 ),cv2.FONT_HERSHEY_SIMPLEX, 2, (0,0,255), 2, cv2.LINE_AA )
+    stage = "standing"
+    counter_three +=1
+```
 
 
 ---
