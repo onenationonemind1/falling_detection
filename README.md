@@ -1,5 +1,4 @@
 # Demo Video
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fDKr2SA9F2I/0.jpg)](https://www.youtube.com/watch?v=fDKr2SA9F2I)
 https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/fDKr2SA9F2I)
 # 0. Contents
