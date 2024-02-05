@@ -1,6 +1,6 @@
 # Demo Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fDKr2SA9F2I/0.jpg)](https://www.youtube.com/watch?v=fDKr2SA9F2I)
-https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/fDKr2SA9F2I)
+☝️Click Image!
 # 0. Contents
 1. Introduce <br/><br/>
 2. Motivation <br/> <br/>
